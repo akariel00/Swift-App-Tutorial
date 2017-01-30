@@ -3,7 +3,7 @@
 //  Udemy 2
 //
 //  Created by Ariel Nelson on 1/30/17.
-//  Copyright © 2017 Ariel Nelson. All rights reserved.
+//  Copyright © 2017 Ariel Nelson. All rights reserved..
 //
 
 import UIKit
@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         tapCount = tapCount + 1
         print (tapCount)
         
-        if tapCount >= 10 {
+        if tapCount >= 20 {
             coolLabel.text = "Tapped over 10 times"
         }
         
